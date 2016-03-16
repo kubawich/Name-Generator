@@ -20,3 +20,16 @@ C:\Users\Kuba\Documents\Visual Studio 2015\Projects\NameGen\NameGen\bin\Debug\Sh
 C:\Users\Kuba\Documents\Visual Studio 2015\Projects\NameGen\NameGen\bin\Debug\SharpGL.SceneGraph.xml
 C:\Users\Kuba\Documents\Visual Studio 2015\Projects\NameGen\NameGen\bin\Debug\SharpGL.WinForms.pdb
 C:\Users\Kuba\Documents\Visual Studio 2015\Projects\NameGen\NameGen\bin\Debug\SharpGL.WinForms.xml
+C:\Users\Kuba\Desktop\Projekty\NameGen\NameGen\bin\Debug\NameGen.exe.config
+C:\Users\Kuba\Desktop\Projekty\NameGen\NameGen\obj\Debug\NameGen.exe
+C:\Users\Kuba\Desktop\Projekty\NameGen\NameGen\obj\Debug\NameGen.pdb
+C:\Users\Kuba\Desktop\Projekty\NameGen\NameGen\bin\Debug\NameGen.exe.manifest
+C:\Users\Kuba\Desktop\Projekty\NameGen\NameGen\bin\Debug\NameGen.application
+C:\Users\Kuba\Desktop\Projekty\NameGen\NameGen\bin\Debug\NameGen.exe
+C:\Users\Kuba\Desktop\Projekty\NameGen\NameGen\bin\Debug\NameGen.pdb
+C:\Users\Kuba\Desktop\Projekty\NameGen\NameGen\obj\Debug\NameGen.csprojResolveAssemblyReference.cache
+C:\Users\Kuba\Desktop\Projekty\NameGen\NameGen\obj\Debug\NameGen.Form1.resources
+C:\Users\Kuba\Desktop\Projekty\NameGen\NameGen\obj\Debug\NameGen.Properties.Resources.resources
+C:\Users\Kuba\Desktop\Projekty\NameGen\NameGen\obj\Debug\NameGen.csproj.GenerateResource.Cache
+C:\Users\Kuba\Desktop\Projekty\NameGen\NameGen\obj\Debug\NameGen.exe.manifest
+C:\Users\Kuba\Desktop\Projekty\NameGen\NameGen\obj\Debug\NameGen.application

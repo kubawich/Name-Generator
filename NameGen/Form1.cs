@@ -58,8 +58,8 @@ namespace NameGen
 
     public class Generate
     {
-        static string[] Name = new string[] { "Mariusz", "Janusz", "Bogdan", "Zbigniew" };
-        static string[] Surname = new string[] { "Stonoga", "Wałęsa", "Białkov", "Wichliński" };
+        static string[] Name = { "Mariusz", "Janusz", "Bogdan", "Zbigniew" };
+        static string[] Surname = { "Stonoga", "Wałęsa", "Białkov", "Wichliński" };
 
         public static List<string> LName = new List<string>();
         public static List<string> LSurname = new List<string>();

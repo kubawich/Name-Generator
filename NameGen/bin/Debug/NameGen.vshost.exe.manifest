@@ -42,50 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="NameGen.exe" size="12240">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="NameGen.exe" size="11216">
       <assemblyIdentity name="NameGen" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>RsCDGLRE/lofU0xz00IYdqFCSXyg6umduVtK1uQ8Iio=</dsig:DigestValue>
-      </hash>
-    </dependentAssembly>
-  </dependency>
-  <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SharpGL.dll" size="368640">
-      <assemblyIdentity name="SharpGL" version="2.4.0.0" publicKeyToken="27FC851303210B27" language="neutral" processorArchitecture="msil" />
-      <hash>
-        <dsig:Transforms>
-          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-        </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>LUthVyV4GGIq3LPWaTWgLASEuB747U3owP+RePzXNdU=</dsig:DigestValue>
-      </hash>
-    </dependentAssembly>
-  </dependency>
-  <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SharpGL.SceneGraph.dll" size="143872">
-      <assemblyIdentity name="SharpGL.SceneGraph" version="2.4.0.0" publicKeyToken="27FC851303210B27" language="neutral" processorArchitecture="msil" />
-      <hash>
-        <dsig:Transforms>
-          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-        </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Lgy/OouUvNus5egTVoyK9jONzP8PEdQCUoqVuMic8Js=</dsig:DigestValue>
-      </hash>
-    </dependentAssembly>
-  </dependency>
-  <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SharpGL.WinForms.dll" size="21504">
-      <assemblyIdentity name="SharpGL.WinForms" version="2.4.0.0" publicKeyToken="27FC851303210B27" language="neutral" processorArchitecture="msil" />
-      <hash>
-        <dsig:Transforms>
-          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-        </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>KRMyGwddl59UbmfpF2bkEXsmasEk47Pb7NGEUCpaf+Q=</dsig:DigestValue>
+        <dsig:DigestValue>DLiyB2KUE1u+bunOy09JO2eHto6W6tWQ/lY0eeP79oY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
